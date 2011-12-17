@@ -1,0 +1,13 @@
+{
+    "name": "ql.io-no.de-app",
+    "version": "0.1.0",
+    "dependencies":{
+        "ql.io-console": "",
+        "ql.io-compiler": "",
+        "mustache": "",
+        "winston": "0.3.5",
+        "headers": "",
+        "express": "",
+        "ejs": ""
+    }
+}
